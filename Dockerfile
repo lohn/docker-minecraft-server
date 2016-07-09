@@ -1,6 +1,6 @@
 FROM java:8
 
-MAINTAINER itzg
+MAINTAINER lohn
 
 ENV APT_GET_UPDATE 2016-04-23
 RUN apt-get update
